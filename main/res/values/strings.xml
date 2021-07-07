@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Bio-Miztli</string>
+    <string name="title_home">Inicio</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="buttonLogin">Ingresar</string>
+    <string name="editTextTextPassword2">Contraseña...</string>
+
+</resources>
